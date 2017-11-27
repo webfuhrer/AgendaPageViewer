@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Dropbox\uem\Moviles\ProyectosAndroidStudio\AgendaPageViewer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8c5c09b8b22b6a32fc4c4bb77e8d1680b6e7a51f">
+        <dex dex="D:\Dropbox\uem\Moviles\ProyectosAndroidStudio\AgendaPageViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_77c2fabe5931ecb1fe4b874e8206a103dac66fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Dropbox\uem\Moviles\ProyectosAndroidStudio\AgendaPageViewer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Dropbox\uem\Moviles\ProyectosAndroidStudio\AgendaPageViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c73db852e6427f9648a95c60b0a3de093ab0b011\classes.dex" />
+    </item>
+
+</items>
